@@ -3,7 +3,7 @@
 ## Requiered
 - JDK 11
 - JUnit
-- Maven
+- Maven.
 
 ### Exercise
 
